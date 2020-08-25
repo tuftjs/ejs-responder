@@ -1,3 +1,6 @@
+### ⚠ DEPRECATED ⚠
+*This package is no longer maintained, as its functionality has been implemented in [View Responder](https://github.com/tuftjs/view-responder).*
+
 # EJS Responder
 
 ![Node.js CI](https://github.com/tuftjs/ejs-responder/workflows/Node.js%20CI/badge.svg)
